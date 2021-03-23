@@ -1,1 +1,1 @@
-# simple website made with bootstrap
+# simple page made with bootstrap
